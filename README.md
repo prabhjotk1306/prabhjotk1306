@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prabhjot Kaur</h1>
+<h3 align="center">A passionate Engineering student</h3>
+
 - 📫 How to reach me **prabhjotkaurchh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhjot-kaur-ba087925a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhjot-kaur-ba087925a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/prabhjot1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prabhjot1306" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/htprabhjot-kaur-ba087925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htprabhjot-kaur-ba087925a" height="30" width="40" /></a>
+<a href="https://kaggle.com/prabhjot1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhjot1306" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/me_5727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="me_5727" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pkaur2380d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pkaur2380d" height="30" width="40" /></a>
 </p>
